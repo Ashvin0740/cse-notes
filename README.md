@@ -30,6 +30,20 @@ is a deliberate attempt (especially in the sense of a method or technique) to ev
 and violate the security policy of a system.
 ```
 
+Active and Passive attacks difference :
+
+* Active
+```
+ In Active attack, an attacker tries to modify the content of the messages.
+ ```
+* Passive
+```
+in Passive attack, an attacker observes the messages, copy them and may use them for malicious purposes.
+```
+<p align="center">
+<img src="https://image.slidesharecdn.com/computersecurityoverview-170423022917/95/computer-security-overview-13-638.jpg?cb=1493107720" width="350"/>
+</p>
+
 What are the main types of cyber security threats?
 ```
 - Distributed denial of service (DDoS)
