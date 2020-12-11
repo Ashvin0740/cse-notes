@@ -5,7 +5,7 @@
 
 ### Cryptography and network security principles and practice
 
-##### what is cryptology cryptanalysis and cryptography
+ what is cryptology cryptanalysis and cryptography
 ```
 - Cryptology is the study of codes, both creating and solving them.
 - Cryptography is the art of creating codes.
@@ -23,12 +23,12 @@ exploit a vulnerability.
 
 What are the main types of cyber security threats?
 ```
-Distributed denial of service (DDoS)
-Man in the Middle (MitM)
-Social engineering.
-Malware and spyware.
-Password attacks.
-Advanced persistent threats (APT)
+- Distributed denial of service (DDoS)
+- Man in the Middle (MitM)
+- Social engineering.
+- Malware and spyware.
+- Password attacks.
+- Advanced persistent threats (APT)
 ```
 ### explain security attacks performed on information or data
 ```
