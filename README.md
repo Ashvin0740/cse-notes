@@ -44,7 +44,7 @@ in Passive attack, an attacker observes the messages, copy them and may use them
 <img src="https://image.slidesharecdn.com/computersecurityoverview-170423022917/95/computer-security-overview-13-638.jpg?cb=1493107720" width="350"/>
 </p>
 
-[More details Active and passive attack](https://www.geeksforgeeks.org/active-and-passive-attacks-in-information-security/)
+<a href="https://www.geeksforgeeks.org/active-and-passive-attacks-in-information-security/" target="_blank">More details Active and passive attackRead More</a>
 
 What are the main types of cyber security threats?
 ```
