@@ -23,4 +23,4 @@
 - Cryptanalysis is the art of surreptitiously revealing the contents of coded messages, 
   breaking codes, that were not intended for you as a recipient.
 ```
-[Read More](https://hackernoon.com/cryptology-vs-cryptography-vs-cryptanalysis-get-your-vocabulary-right-mw3o32w4)
+<a href="https://hackernoon.com/cryptology-vs-cryptography-vs-cryptanalysis-get-your-vocabulary-right-mw3o32w4" target="_blank">Read More</a>
