@@ -23,6 +23,13 @@ or event that could breach security and cause harm. That is, a threat is a possi
 exploit a vulnerability.
 ```
 
+* Attack
+```
+An assault on system security that derives from an intelligent threat; that is, an intelligent act that
+is a deliberate attempt (especially in the sense of a method or technique) to evade security services
+and violate the security policy of a system.
+```
+
 What are the main types of cyber security threats?
 ```
 - Distributed denial of service (DDoS)
