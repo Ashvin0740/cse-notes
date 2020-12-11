@@ -7,7 +7,7 @@
 
 ### Assignment Questions
  * [1.what is cryptology,cryptanalysis and cryptography](#what-is-cryptology-cryptanalysis-and-cryptography)
- * [2. explain security attacks performed on information or data](#explain security attacks performed on information or data)
+ * [2.explain security attacks performed on information or data](#explain security attacks performed on information or data)
  * [Datatype,PRIMITIVE & REFERENCE](#Datatype-PRIMITIVE-REFERENCE)
 
 
