@@ -11,8 +11,7 @@
  * [Datatype,PRIMITIVE & REFERENCE](#Datatype-PRIMITIVE-REFERENCE)
 
 
-### Cryptography and network security principles and practice
-### Cryptography and network security principles and practice
+
 
 <!-- tocstop -->
 
