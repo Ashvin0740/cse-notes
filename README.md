@@ -7,7 +7,7 @@
 
 ### Assignment Questions
  * [1.what is cryptology,cryptanalysis and cryptography](#what-is-cryptology-cryptanalysis-and-cryptography)
- * [DataType,Naming,Rules](#DataType-Naming-Rules)
+ * [2. explain security attacks performed on information or data](#explain security attacks performed on information or data)
  * [Datatype,PRIMITIVE & REFERENCE](#Datatype-PRIMITIVE-REFERENCE)
 
 
@@ -24,3 +24,30 @@
   breaking codes, that were not intended for you as a recipient.
 ```
 <a href="https://hackernoon.com/cryptology-vs-cryptography-vs-cryptanalysis-get-your-vocabulary-right-mw3o32w4" target="_blank">Read More</a>
+
+* Threat
+```
+A potential for violation of security, which exists when there is a circumstance, capability, action,
+or event that could breach security and cause harm. That is, a threat is a possible danger that might
+exploit a vulnerability.
+```
+
+What are the main types of cyber security threats?
+```
+Distributed denial of service (DDoS)
+Man in the Middle (MitM)
+Social engineering.
+Malware and spyware.
+Password attacks.
+Advanced persistent threats (APT)
+```
+### explain security attacks performed on information or data
+```
+A security attack is an unauthorized attempt to steal, damage, 
+or expose data from an information system such as your website.
+```
+<a href="https://managewp.com/blog/security-attacks#:~:text=A%20security%20attack%20is%20an,system%20such%20as%20your%20website." target="_blank">Read More</a>
+
+
+
+
