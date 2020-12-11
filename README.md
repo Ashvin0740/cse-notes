@@ -2,13 +2,8 @@
 
 ## Subject List
 
-<!-- toc -->
+
 ### Cryptography and network security principles and practice
-
-
-<!-- tocstop -->
-
-## Cryptography and network security principles and practice
 
 ##### what is cryptology cryptanalysis and cryptography
 ```
