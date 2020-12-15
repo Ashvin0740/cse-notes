@@ -11,7 +11,7 @@
 
 </div>
 
-## Created by: Miha & Inspired by Brad Traversy
+## Created by: IT Students 
 
 ---
 
