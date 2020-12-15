@@ -18,7 +18,7 @@
 ## 📝 Table of Contents
 
 - [Cryptography and network security principles and practice](#Cryptography_and_network_security_principles_and_practice)
-- [AI(Artificial intelligence)](#Artificial_intelligence)
+- [AI(Artificial intelligence)](#Artificial-intelligence)
 
 
 ---
