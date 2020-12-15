@@ -80,6 +80,12 @@ OOP vs OPO
 ```
 https://www.tutorialspoint.com/difference-between-oop-and-pop#:~:text=OOP%20follows%20bottom%20up%20approach,POP%20follows%20top%20down%20approach.&text=A%20program%20is%20divided%20to,into%20funtions%20and%20they%20interacts.
 ```
+<p align="center">
+<img src="https://i.ytimg.com/vi/LL8hqRdFCPI/maxresdefault.jpg" width="350"/>
+</p>
+
+
+
 Applicarion of PROLOG
 
 
