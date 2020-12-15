@@ -21,8 +21,9 @@
 - [AI(Artificial intelligence)](#Artificial_intelligence)
 
 
-### 1.Cryptography and network security principles and practice
-### 2.AI(Artificial intelligence)
+---
+
+Cryptography and network security principles and practice
 
 #### Asignment 1
 
