@@ -15,6 +15,11 @@
 
 ---
 
+## 📝 Table of Contents
+
+- [Cryptography and network security principles and practice](#Cryptography_and_network_security_principles_and_practice)
+- [AI(Artificial intelligence)](#Artificial_intelligence)
+
 
 ### 1.Cryptography and network security principles and practice
 ### 2.AI(Artificial intelligence)
@@ -77,7 +82,7 @@ or expose data from an information system such as your website.
 <a href="https://managewp.com/blog/security-attacks#:~:text=A%20security%20attack%20is%20an,system%20such%20as%20your%20website." target="_blank">Read More</a>
 
 
-## AI
+## Artificial intelligence
 
 #### Assignment 1;
 
