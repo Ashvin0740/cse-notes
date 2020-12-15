@@ -63,5 +63,11 @@ or expose data from an information system such as your website.
 <a href="https://managewp.com/blog/security-attacks#:~:text=A%20security%20attack%20is%20an,system%20such%20as%20your%20website." target="_blank">Read More</a>
 
 
+https://www.tutorialspoint.com/artificial_intelligence/artificial_intelligence_research_areas.htm
+
+### Cryptography and network security principles and practice
+
+<a href="https://managewp.com/blog/security-attacks#:~:text=A%20security%20attack%20is%20an,system%20such%20as%20your%20website." target="_blank">Artificial Intelligence</a>
+
 
 
