@@ -63,36 +63,32 @@ or expose data from an information system such as your website.
 <a href="https://managewp.com/blog/security-attacks#:~:text=A%20security%20attack%20is%20an,system%20such%20as%20your%20website." target="_blank">Read More</a>
 
 
-https://www.tutorialspoint.com/artificial_intelligence/artificial_intelligence_research_areas.htm
-
-### Cryptography and network security principles and practice
+## AI
 
 #### Assignment 1;
+
 1.what is prolog ?
 ```
-Prolog is a logic programming language. It has important role in artificial intelligence. 
-Unlike many other programming languages, Prolog is intended primarily as a declarative programming language. 
-In prolog, logic is expressed as relations (called as Facts and Rules). Core heart of prolog lies at the logic being applied. 
-Formulation or Computation is carried out by running a query over these relations.
+- Prolog is a logic programming language. It has important role in artificial intelligence. 
+- Unlike many other programming languages, Prolog is intended primarily as a declarative programming language. 
+- In prolog, logic is expressed as relations (called as Facts and Rules). Core heart of prolog lies at the logic being applied. 
+- Formulation or Computation is carried out by running a query over these relations.
 ```
 
 2.OOP vs OPO
-```
-https://www.tutorialspoint.com/difference-between-oop-and-pop#:~:text=OOP%20follows%20bottom%20up%20approach,POP%20follows%20top%20down%20approach.&text=A%20program%20is%20divided%20to,into%20funtions%20and%20they%20interacts.
-```
+
 <p align="center">
-<img src="https://i.ytimg.com/vi/LL8hqRdFCPI/maxresdefault.jpg" width="350"/>
+<img src="https://i.ytimg.com/vi/LL8hqRdFCPI/maxresdefault.jpg" width="450"/>
 </p>
 
 
 
 3.Applicarion of PROLOG
 
-
-
 <p align="center">
 <img src="https://image.slidesharecdn.com/prologpresent-130306225237-phpapp02/95/prolog-present-14-638.jpg?cb=1362610399" width="350"/>
 </p>
+
 4.features of prolog
 ```
 The main characteristics/notions of the Visual Prolog programming language are:
@@ -106,9 +102,6 @@ based on logical programming with Horn clauses.
 - controlled non-determinism.
 - fully integrated fact databases.
 ```
-
-
-<a href="https://managewp.com/blog/security-attacks#:~:text=A%20security%20attack%20is%20an,system%20such%20as%20your%20website." target="_blank">Artificial Intelligence</a>
 
 
 
