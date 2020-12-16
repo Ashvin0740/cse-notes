@@ -82,6 +82,47 @@ or expose data from an information system such as your website.
 ```
 <a href="https://managewp.com/blog/security-attacks#:~:text=A%20security%20attack%20is%20an,system%20such%20as%20your%20website." target="_blank">Read More</a>
 
+### Notes
+
+Security attack: 
+```
+Any action that compromises the security of information
+owned by an organization.
+```
+#### Passive Attack
+
+```
+Passive attacks are very difficult to detect, because they do not involve any
+alteration of the data
+```
+
+Two types of passive attacks are the release of message contents and
+traffic analysis
+```
+- The release of message contents is easily understood.
+
+  A telephone conversation, an electronic mail message, 
+and a transferred file may contain sensitive or confidential information.
+
+- A second type of passive attack, traffic analysis, is subtler.
+
+  Suppose that we had a way of masking the contents of messages or other information traffic so that
+opponents, even if they captured the message, could not extract the information
+from the message
+```
+
+#### Active attacks
+
+```
+Active attacks involve some modification of the data stream or the
+creation of a false stream and can be subdivided into four categories: 
+-masquerade,
+-replay, 
+-modification of messages, and denial of service.
+```
+
+
+
 
 ## Artificial intelligence
 
