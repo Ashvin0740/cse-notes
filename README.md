@@ -77,8 +77,7 @@ What are the main types of cyber security threats?
 ```
 Explain security attacks performed on information or data
 ```
-A security attack is an unauthorized attempt to steal, damage, 
-or expose data from an information system such as your website.
+A security attack is an unauthorized attempt to steal, damage, or expose data from an information system such as your website.
 ```
 <a href="https://managewp.com/blog/security-attacks#:~:text=A%20security%20attack%20is%20an,system%20such%20as%20your%20website." target="_blank">Read More</a>
 
@@ -86,14 +85,12 @@ or expose data from an information system such as your website.
 
 Security attack: 
 ```
-Any action that compromises the security of information
-owned by an organization.
+Any action that compromises the security of information owned by an organization.
 ```
 #### Passive Attack
 
 ```
-Passive attacks are very difficult to detect, because they do not involve any
-alteration of the data
+Passive attacks are very difficult to detect, because they do not involve any alteration of the data
 ```
 
 Two types of passive attacks are the release of message contents and
@@ -114,8 +111,8 @@ from the message
 #### Active attacks
 
 ```
-Active attacks involve some modification of the data stream or the
-creation of a false stream and can be subdivided into four categories: 
+Active attacks involve some modification of the data stream or the creation of a false stream and can be subdivided into four categories: 
+
 -masquerade,
 -replay, 
 -modification of messages, and denial of service.
