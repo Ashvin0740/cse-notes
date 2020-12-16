@@ -102,7 +102,7 @@ traffic analysis
 - The release of message contents is easily understood.
 
   A telephone conversation, an electronic mail message, 
-and a transferred file may contain sensitive or confidential information.
+  and a transferred file may contain sensitive or confidential information.
 
 - A second type of passive attack, traffic analysis, is subtler.
 
