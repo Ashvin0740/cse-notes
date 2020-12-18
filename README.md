@@ -124,9 +124,9 @@ Active attacks involve some modification of the data stream or the creation of a
 
 ## Artificial intelligence
 
-#### Assignment 1;
+# Assignment 1;
 
-1.what is prolog ?
+## 1.what is prolog ?
 ```
 - Prolog is a logic programming language. It has important role in artificial intelligence. 
 - Unlike many other programming languages, Prolog is intended primarily as a declarative programming language. 
@@ -134,7 +134,7 @@ Active attacks involve some modification of the data stream or the creation of a
 - Formulation or Computation is carried out by running a query over these relations.
 ```
 
-2.OOP vs OPO
+## 2.OOP vs OPO
 
 <p align="center">
 <img src="https://i.ytimg.com/vi/LL8hqRdFCPI/maxresdefault.jpg" width="450"/>
@@ -142,13 +142,13 @@ Active attacks involve some modification of the data stream or the creation of a
 
 
 
-3.Applicarion of PROLOG
+## 3.Applicarion of PROLOG
 
 <p align="center">
 <img src="https://image.slidesharecdn.com/prologpresent-130306225237-phpapp02/95/prolog-present-14-638.jpg?cb=1362610399" width="350"/>
 </p>
 
-4.features of prolog
+## 4.features of prolog
 ```
 The main characteristics/notions of the Visual Prolog programming language are:
 based on logical programming with Horn clauses.
